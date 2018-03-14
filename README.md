@@ -71,5 +71,13 @@ Public annual crime records (2014 - 2016), crime demographics, and affordable ho
 Local business information and reviews obtained from the <a href="https://www.yelp.com/fusion">Yelp API</a>.
 
 
+### Team Members 
+<ul>
+  <li>Arwen Shackelford</li>
+   <li>Bobby Taylor</li>
+   <li>Sophie Tsai </li>
+   <li>Yukun Peng</li>
 
+
+</ul>
 
